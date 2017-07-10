@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'MyriadPro';
+  src: url('../fonts/MyriadPro.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/MyriadPro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/MyriadPro.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/MyriadPro.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/MyriadPro.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/MyriadPro.svg#svgFontName') format('svg'); /* Legacy iOS */
+  font-weight: 400;
+}
+@font-face {
+  font-family:'MyriadPro';
+  src: url('../fonts/MyriadProBold.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/MyriadProBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/MyriadProBold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/MyriadProBold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/MyriadProBold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/MyriadProBold.svg#svgFontName') format('svg'); /* Legacy iOS */
+  font-weight: 700;
+}
+
